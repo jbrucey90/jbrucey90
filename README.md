@@ -8,3 +8,6 @@
 jbrucey90/jbrucey90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+              - name: Build Android App
+                uses: sparkfabrik/android-build-action@v1.5.0
+            
